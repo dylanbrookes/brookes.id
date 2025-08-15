@@ -5,7 +5,7 @@ export default function Home() {
       <div className="grainy-background absolute inset-0 pointer-events-none"></div>
 
       <main className="relative flex flex-col gap-[32px] row-start-2 items-center justify-center w-full max-w-full px-4">
-        <div className="relative flex flex-col items-center">
+        <div className="relative flex flex-col items-center -mt-12">
           <h1
             className="text-6xl sm:text-8xl md:text-8xl lg:text-8xl xl:text-8xl font-bold tracking-wider break-words leading-tight silver-shimmer select-none shimmer-fade-in"
             style={{
